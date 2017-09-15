@@ -1,0 +1,6 @@
+[submodule "TinyWireM"]
+	path = TinyWireM
+	url = https://github.com/adafruit/TinyWireM.git
+[submodule "SSD1306_minimal"]
+	path = SSD1306_minimal
+	url = https://github.com/kirknorthrop/SSD1306_minimal.git
